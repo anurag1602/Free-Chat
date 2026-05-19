@@ -1,0 +1,6 @@
+{
+  "name": "Gemini Free Chat",
+  "description": "A polished chat application using Gemini free-tier models for fast and intelligent conversations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
